@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+  - libs/*
+
+# Solo estos paquetes pueden ejecutar sus scripts de instalación.
+allowBuilds:
+  '@nestjs/core': true
+  esbuild: true
