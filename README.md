@@ -1,5 +1,8 @@
 # Activación de servicios con Kafka
 
+## Integrantes
+Bechir Santiago, Gavino Santiago, Cabrera Federico, Casenave Blas, Aldaz Alexis
+
 POC del TP8 de Sistemas Distribuidos. Desarrollo incremental con cinco servicios
 NestJS, una UI React y contratos de eventos compartidos.
 
